@@ -1,12 +1,12 @@
-🧱 Level & Wall Management (Explanation)
+# 🧱 Level & Wall Management (Explanation)
 
 This part of the project is responsible for managing the different levels of the game and dynamically generating the walls for each level.
 
-🎯 Purpose of This Module:
+# 🎯 Purpose of This Module:
 
 To create a flexible system for defining any number of game levels without repeating code. This allows for easy expansion of the game by simply adding new level data.
 
-🧩 How It Works:
+# 🧩 How It Works:
 
 ● Each level contains a set of walls, with their position and size defined numerically.
 
@@ -16,7 +16,7 @@ To create a flexible system for defining any number of game levels without repea
 
 ● As the player progresses and meets certain conditions (like score thresholds), the next level is loaded dynamically.
 
-✅ Key Advantages:
+# ✅ Key Advantages:
 
 ● Unlimited levels can be added just by extending the level data.
 
@@ -25,3 +25,6 @@ To create a flexible system for defining any number of game levels without repea
 ● Eliminates code duplication and improves readability and maintainability.
 
 ● Scalable and ready for use in more complex game projects.
+
+# 🤝 Contributions
+If you have suggestions for improving the project or want to contribute, feel free to open an issue or submit a pull request. Your feedback is welcome!
