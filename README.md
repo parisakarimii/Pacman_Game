@@ -28,3 +28,9 @@ To create a flexible system for defining any number of game levels without repea
 
 ## 🤝 Contributions
 If you have suggestions for improving the project or want to contribute, feel free to open an issue or submit a pull request. Your feedback is welcome!
+
+<p align="center">
+  <picture>
+    <img alt="rgbcolor" src="pacman_game.png">
+  </picture>
+</p>
